@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_label_padding_right">4dp</dimen>
+    <dimen name="linear_layout_margin">8dp</dimen>
+    <dimen name="text_label_width">120dp</dimen>
+    <dimen name="text_name_size">32dp</dimen>
+</resources>
