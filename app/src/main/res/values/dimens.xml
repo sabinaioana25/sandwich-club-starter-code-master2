@@ -6,4 +6,5 @@
     <dimen name="linear_layout_margin">8dp</dimen>
     <dimen name="text_label_width">120dp</dimen>
     <dimen name="text_name_size">32dp</dimen>
+    <dimen name="image_view_height">200dp</dimen>
 </resources>
